@@ -1,0 +1,42 @@
+.testhead {
+  text-align: center;
+}
+.whathead {
+  text-align: center;
+  font-weight: bold;
+}
+.columns {
+  height: 400px;
+  width: 400px;
+}
+.quote {
+  font-size: 60px;
+}
+.photo {
+  width: 15%;
+  border-radius: 100%;
+}
+.zain {
+  display: flex;
+  margin-top: 34px;
+}
+.zain h4 {
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.azeem {
+  display: flex;
+  margin-top: 34px;
+}
+.azeem h4 {
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.uzi {
+  display: flex;
+  margin-top: 34px;
+}
+.uzi h4 {
+  margin-top: 10px;
+  margin-left: 20px;
+}
